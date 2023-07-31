@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🎻🍵
 
-<!--
-**kahbg/kahbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is kauane graciano
 
-Here are some ideas to get you started:
+- estou escudando na ALURA 
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus prrojetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### pode entrar em contato pelo email 📧:)
+
+graciano.kauane@escola.pr.gov.br
+
+@kahbg
